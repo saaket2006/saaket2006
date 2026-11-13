@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>PORTFOLIO & OPEN SOURCE · saaket2006</sub></p>
+<p><sub>PROFILE · saaket2006</sub></p>
 <h1>Saaket Baldawa</h1>
 <p>AI/GenAI developer building practical LLM applications, multi-agent systems, and intelligent automation tools.</p>
 <p><strong>Building, learning, and shipping in public</strong></p>
